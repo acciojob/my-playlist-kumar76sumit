@@ -8,6 +8,7 @@
 	border-radius:5px;
 	background-color:white;
 	margin:20px;
+	padding:none;
 }
 #video_audio{
 	border:1px solid black;
@@ -22,4 +23,7 @@
 }
 body{
 	background-color:rgb(204, 204, 204);
+}
+.player_one{
+	background-color:rgb(255, 255, 255);
 }
