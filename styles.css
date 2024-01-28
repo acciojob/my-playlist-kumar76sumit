@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.song{
+	text-decoration-line:none;
+	color:black;
+}
+#songs{
+	border:1px solid black;
+	border-radius:5px;
+	background-color:white;
+	margin:20px;
+}
+#video_audio{
+	border:1px solid black;
+	border-radius:5px;
+	align-items:center;
+	background-color:rgb(255, 255, 255);
+	padding:15px;
+	margin:45px;
+}
+#video_audio>*{
+	width:100%;
+}
+body{
+	background-color:rgb(204, 204, 204);
+}
